@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/4IbknOQGPwUnJj2c76/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/@iopuiou">
+  <a href="https://t.me/iopuiou">
   <img src="https://img.shields.io/badge/-telegram-blue" alt="Telegram Badge"/>
     </a>
   <a href="https://vk.com/lopuio">
