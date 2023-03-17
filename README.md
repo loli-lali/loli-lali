@@ -27,7 +27,7 @@
  <div align="left">
   
   <h3>:man_technologist: &nbsp;About Me :</h3>
-  <p>My name is Elman!</p>
+  <p>My name is El'man!</p>
   <ul>
     <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> I am a DevOps junior from Moscow.</li>
     <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> I am familiar with SQL, C, and Python.</li>
