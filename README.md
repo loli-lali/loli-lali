@@ -35,7 +35,7 @@
     <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> In my free time, I enjoy listening to music on vinyl records, reading books on psychology, and learning new techniques.</li>
     <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> Exploring Technical Content Writing.</li>
     <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> I am willing to take on any challenges and learn new things to become better in my field.</li>
-    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> How to reach me: &nbsp;<a href="https://vk.com/lopuio"><img src="https://img.shields.io/badge/-telegram-blue" alt="Telegram Badge"/></a></li>
+    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> How to reach me: &nbsp;<a href="https://t.me/iopuiou"><img src="https://img.shields.io/badge/-telegram-blue" alt="Telegram Badge"/></a></li>
   </ul>
 </div>
 
