@@ -18,7 +18,7 @@
   </a>
   <h1>
   <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/>
-  hello, cutie 
+    хеллоу! 
   <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/>
 </h1>
 <p align="center">
