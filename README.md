@@ -35,7 +35,7 @@
     <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> В свободное время я с удовольствием слушаю музыку на виниловых пластинках, читаю книги по психологии и изучаю новые техники.</li>
     <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> Изучаю написание технического контента.</li>
     <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> Я готов принять любые вызовы и научиться чему-то новому, чтобы стать лучше в своей области.</li>
-    <li><<iframe src="https://giphy.com/embed/Pqp4Y64TcGwJa" width="480" height="341" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-matrix-neo-thomas-anderson-Pqp4Y64TcGwJa">via GIPHY</a></p> How to reach me: &nbsp;<a href="https://t.me/iopuiou"><img src="https://img.shields.io/badge/-telegram-blue" alt="Telegram Badge"/></a></li>
+    <li></p> How to reach me: &nbsp;<a href="https://t.me/iopuiou"><img src="https://img.shields.io/badge/-telegram-blue" alt="Telegram Badge"/></a></li>
   </ul>
 </div>
 
