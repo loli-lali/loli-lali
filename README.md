@@ -27,15 +27,15 @@
  <div align="left">
   
   <h3>:man_technologist: &nbsp;About Me :</h3>
-  <p>My name is El'man!</p>
+  <p>Я Эльман!</p>
   <ul>
-    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> I am a DevOps junior from Moscow.</li>
-    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> I am familiar with SQL, C, Java and Python.</li>
-    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> Currently, I am learning DevOps, C++, Golang, and Python.</li>
-    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> In my free time, I enjoy listening to music on vinyl records, reading books on psychology, and learning new techniques.</li>
-    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> Exploring Technical Content Writing.</li>
-    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> I am willing to take on any challenges and learn new things to become better in my field.</li>
-    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> How to reach me: &nbsp;<a href="https://t.me/iopuiou"><img src="https://img.shields.io/badge/-telegram-blue" alt="Telegram Badge"/></a></li>
+    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> Middle Devops.</li>
+    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> Создаю образовательную платформу для изучения DevOps сферы.</li>
+    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> Стек: Ansible, Docker, Docker Compose, CI/CD (GitLab CI, Jenkins), Prometheus, Grafana, Nginx, HAProxy, PostgreSQL, MySQL, Bash, Python, Kubernetes.</li>
+    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> В свободное время я с удовольствием слушаю музыку на виниловых пластинках, читаю книги по психологии и изучаю новые техники.</li>
+    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> Изучаю написание технического контента.</li>
+    <li><img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/> Я готов принять любые вызовы и научиться чему-то новому, чтобы стать лучше в своей области.</li>
+    <li><<iframe src="https://giphy.com/embed/Pqp4Y64TcGwJa" width="480" height="341" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-matrix-neo-thomas-anderson-Pqp4Y64TcGwJa">via GIPHY</a></p> How to reach me: &nbsp;<a href="https://t.me/iopuiou"><img src="https://img.shields.io/badge/-telegram-blue" alt="Telegram Badge"/></a></li>
   </ul>
 </div>
 
