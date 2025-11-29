@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/4IbknOQGPwUnJj2c76/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/iopuiou">
+  <a href="https://t.me/iopiopovi4">
   <img src="https://img.shields.io/badge/-telegram-blue" alt="Telegram Badge"/>
     </a>
   <a href="https://vk.com/lopuio">
@@ -63,10 +63,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+
+
   
 </div>
 
